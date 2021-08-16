@@ -1,0 +1,35 @@
+/* ------------------------------------------------------------ *\
+    Vendor
+\* ------------------------------------------------------------ */
+
+@import './vendor/*.scss';
+
+
+/* ------------------------------------------------------------ *\
+    Settings
+\* ------------------------------------------------------------ */
+
+@import '~@styles/shared/_config.scss';
+@import '~@styles/shared/_variables.scss';
+@import '~@styles/shared/_editor.scss';
+@import './_variables.scss';
+@import './_sprite.scss';
+
+/* ------------------------------------------------------------ *\
+    Helpers Theme
+\* ------------------------------------------------------------ */
+
+@import './_generic*.scss';
+@import './pages/*.scss';
+
+/* ------------------------------------------------------------ *\
+    Custom Theme
+\* ------------------------------------------------------------ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+//
+//@import "~@fancyapps/fancybox/dist/jquery.fancybox.min.css";
+//@import "~aos/src/sass/aos";
+@import "~swiper/swiper-bundle.min.css";
+//@import "~mburger-css/src/scss/mburger";
+//@import "~mmenu-js/src/mmenu";
+@import "./main/*.scss";

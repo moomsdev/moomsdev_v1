@@ -1,0 +1,26 @@
+$font-family-sans-serif: Arial, Helvetica, sans-serif;
+$font-family-serif: Times, 'Times New Roman', serif;
+
+$primary-color: #060B35;
+$hover-color: #FFB800;
+$base-font-size: 16px;
+
+@mixin maxWidth($value){
+    @media screen and (max-width: $value)    {
+        @content
+    }
+}
+@mixin minWidth($value){
+    @media screen and (min-width: $value)    {
+        @content
+    }
+}
+
+@mixin delay($rule, $number, $value) {
+    @for $i from 1 to ($number + 1) {
+        &:nth-child(#{$i}) {
+            -webkit-#{$rule}-delay: (#{$i*$value});
+            #{$rule}-delay: (#{$i*$value});
+        }
+    }
+}

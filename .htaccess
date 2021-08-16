@@ -1,0 +1,11 @@
+# Disable access to any theme files outside of dist/.
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+#RewriteRule !^(dist/|theme/screenshot.png|theme/style.css) - [L,R=404]
+#RewriteRule ^img/(.*)$ /wp-content/themes/webservice/resources/images/$1 [L]
+#RewriteRule ^css/(.*)$ /wp-content/themes/webservice/dist/styles/$1 [L]
+#RewriteRule ^js/(.*)$ /wp-content/themes/webservice/dist/$1 [L]
+
+</IfModule>
+

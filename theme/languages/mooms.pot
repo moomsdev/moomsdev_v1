@@ -1,0 +1,280 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MOOMS.DEV\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-20 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: mooms"
+
+#: setup/post-types/blog.php:25
+msgid "Album __ 1170x784 "
+msgstr ""
+
+#: setup/post-types/blog.php:29
+msgid "Album __ 572x322:"
+msgstr ""
+
+#: setup/theme-options.php:142
+msgid "Album Studio"
+msgstr ""
+
+#: setup/theme-options.php:28
+msgid "Background slider __ 1440x1024"
+msgstr ""
+
+#: setup/theme-options.php:72
+msgid "Chân trang | Footer"
+msgstr ""
+
+#: setup/theme-options.php:50
+msgid "Chọn dự án nổi bật:"
+msgstr ""
+
+#: setup/theme-options.php:117
+msgid "Chọn logo __ 80x80:"
+msgstr ""
+
+#: setup/theme-options.php:65
+msgid "Chọn tin tức nổi bật:"
+msgstr ""
+
+#: setup/theme-options.php:57
+msgid "Chọn trang giới thiệu:"
+msgstr ""
+
+#: setup/theme-options.php:110
+msgid "Câu chuyện về Gác Sao | Our Story"
+msgstr ""
+
+#: setup/theme-options.php:39
+msgid "Danh mục dự án | Project Taxonomy"
+msgstr ""
+
+#: setup/gutenberg_blocks.php:6 setup/blocks/sample.php:6
+msgid "Demo Block"
+msgstr ""
+
+#: header.php:39
+msgid "Discover"
+msgstr ""
+
+#: setup/theme-options.php:48
+msgid "Dự án nổi bật | Project Featured"
+msgstr ""
+
+#: setup/theme-options.php:77 setup/theme-options.php:80
+msgid "Email"
+msgstr ""
+
+#: setup/theme-options.php:74
+msgid "footer"
+msgstr ""
+
+#: setup/theme-options.php:94
+msgid "Footer Script"
+msgstr ""
+
+#: setup/theme-options.php:104
+msgid "Giới thiệu | Introduction"
+msgstr ""
+
+#: setup/theme-options.php:92
+msgid "Google Maps API Key"
+msgstr ""
+
+#: setup/theme-options.php:139
+msgid "Gác Sao Studio | Our Studio"
+msgstr ""
+
+#: setup/theme-options.php:56
+msgid "Gác Sao | About Us"
+msgstr ""
+
+#. Name of the theme
+msgid "haduyan/theme"
+msgstr ""
+
+#: setup/theme-options.php:26
+msgid "header"
+msgstr ""
+
+#: setup/theme-options.php:93
+msgid "Header Script"
+msgstr ""
+
+#: setup/theme-options.php:78
+msgid "Hotline (gọi trực tiếp)"
+msgstr ""
+
+#: setup/theme-options.php:79
+msgid "Hotline (Hiển thị)"
+msgstr ""
+
+#: setup/theme-options.php:108
+msgid "Hình ảnh __ 1198x716"
+msgstr ""
+
+#: setup/theme-options.php:21
+msgid "Hình ảnh thương hiệu | Branding"
+msgstr ""
+
+#: setup/theme-options.php:105
+msgid "Icon"
+msgstr ""
+
+#: setup/theme-options.php:38
+msgid "index"
+msgstr ""
+
+#: setup/theme-options.php:90
+msgid "insert-script"
+msgstr ""
+
+#: setup/theme-options.php:115
+msgid "Khách hàng Gác Sao | Client"
+msgstr ""
+
+#: setup/theme-options.php:22
+msgid "Logo"
+msgstr ""
+
+#: setup/theme-options.php:124
+msgid "Logo __ 195x128"
+msgstr ""
+
+#: setup/users/auth.php:68 setup/users/auth.php:107
+msgid "Mã nhận dạng không chính xác"
+msgstr ""
+
+#: setup/theme-options.php:121 setup/theme-options.php:141
+msgid "Mô tả ngắn:"
+msgstr ""
+
+#: setup/post-types/blog.php:31
+msgid "Mô tả:"
+msgstr ""
+
+#: setup/theme-options.php:81
+msgid "Mạng xã hội:"
+msgstr ""
+
+#: setup/theme-options.php:29 setup/post-types/blog.php:26
+msgid "Nhập thông tin:"
+msgstr ""
+
+#: setup/theme-options.php:32 setup/theme-options.php:136
+msgid "Nội dung"
+msgstr ""
+
+#: setup/theme-options.php:107
+msgid "Nội dung giới thiệu:"
+msgstr ""
+
+#: setup/post-types/blog.php:32
+msgid "Nội dung:"
+msgstr ""
+
+#: views/1_cat_work.php:3
+msgid "Our expertise"
+msgstr ""
+
+#: setup/theme-options.php:76 setup/theme-options.php:106
+msgid "Slogan:"
+msgstr ""
+
+#: setup/theme-options.php:129
+msgid "Suy nghĩ của Gác Sao | Our thinking"
+msgstr ""
+
+#: setup/theme-options.php:16 setup/theme-options.php:20
+msgid "Themes Option"
+msgstr ""
+
+#: setup/theme-options.php:36
+msgid "Thân trang | Index"
+msgstr ""
+
+#: setup/theme-options.php:75
+msgid "Thông tin liên hệ"
+msgstr ""
+
+#: setup/post-types/blog.php:20
+msgid "Thông tin thêm"
+msgstr ""
+
+#: setup/theme-options.php:63
+msgid "Tin tức | Blogs"
+msgstr ""
+
+#: setup/theme-options.php:133
+msgid "Tiêu chuẩn thiết kế: "
+msgstr ""
+
+#: setup/theme-options.php:111 setup/theme-options.php:135
+msgid "Tiêu đề"
+msgstr ""
+
+#: setup/theme-options.php:40 setup/theme-options.php:49
+#: setup/theme-options.php:64 setup/theme-options.php:116
+#: setup/theme-options.php:120 setup/theme-options.php:130
+#: setup/theme-options.php:140 setup/post-types/blog.php:30
+msgid "Tiêu đề:"
+msgstr ""
+
+#: setup/users/auth.php:27
+msgid "Token mismatch!"
+msgstr ""
+
+#: part_templates/breadcrumb.php:11
+msgid "Trang chủ"
+msgstr ""
+
+#: setup/theme-options.php:100
+msgid "Trang Giới thiệu"
+msgstr ""
+
+#: setup/theme-options.php:83
+msgid "Tên mạng xã hội"
+msgstr ""
+
+#: setup/theme-options.php:125
+msgid "Tên đối tác"
+msgstr ""
+
+#: setup/theme-options.php:126
+msgid "Website"
+msgstr ""
+
+#: setup/users/auth.php:31
+msgid "Your username or password does not match, please try again!"
+msgstr ""
+
+#: setup/theme-options.php:84
+msgid "Đường dẫn"
+msgstr ""
+
+#: setup/theme-options.php:41
+msgid "Đường dẫn:"
+msgstr ""
+
+#: setup/theme-options.php:24
+msgid "Đầu trang | Header"
+msgstr ""
+
+#: setup/theme-options.php:119
+msgid "Đối tác Gác Sao | Partner"
+msgstr ""
+
+#: setup/theme-options.php:122
+msgid "Đối tác:"
+msgstr ""

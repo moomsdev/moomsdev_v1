@@ -1,0 +1,25 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: $primary-color;
+    line-height: 33px;
+}
+img{
+    max-width: 100%;
+    width: 100%;
+}
+a{
+    transition: all .25s ease-in-out;
+    &:hover{
+        text-decoration: none;
+    }
+}
+.container{
+    max-width: 1226px;
+}
+
+.title_artice{
+    font-size: 24px;
+    color: black;
+}
